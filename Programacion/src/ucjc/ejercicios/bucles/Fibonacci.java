@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Fibonacci {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) {  
 		// TODO Auto-generated method stub
 		long n1 = 0;
 		long n2 = 1;
